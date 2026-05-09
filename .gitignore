@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Database
+data/db.sqlite3
+*.db
+
+# Settings с конфиденциальными данными
+config.json
+data/settings.json
+.env
+.env.local
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# User-specific
+.user/
+
+# Forsong specific
+downloads/
+resources/cache/
+*.mp3.part
+temp/
