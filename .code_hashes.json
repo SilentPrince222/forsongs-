@@ -15,7 +15,7 @@
   "src/presentation/tabs/search_tab.py": "99ee1af7a04bc74fb30ea73712e867ad",
   "src/presentation/tabs/settings_tab.py": "49dc5f9702e0334cf63fa828ec1088f9",
   "src/presentation/tabs/__init__.py": "91a809dbd5bbeb8b911dfe7ecfd1d7e5",
-  "src/presentation/tabs/playlists_tab.py": "8942140da4a4b1dfef4ea5007a84f18d",
+  "src/presentation/tabs/playlists_tab.py": "db1d1df78bd54196a1e1a39a3d15b02e",
   "src/presentation/tabs/library_tab.py": "8eaf9bebdb6a54b9372025e1447af7b2",
   "src/presentation/tabs/downloads_tab.py": "683b252e7da54fc5c46c65e957dd382b",
   "src/infrastructure/__init__.py": "355ef4207af78d336b47797a8f2fc798",
